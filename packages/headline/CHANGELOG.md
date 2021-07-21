@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.6.0 (2021-07-21)
+
+
+### Features
+
+* Push to canary directly ([6b8fa7b](https://github.com/JackHowa/lerna-monorepo-components/commit/6b8fa7b93ef5644a276c2e3d112adf5b5b187044))
+
+
+
+
+
 # [1.3.0](https://github.com/JackHowa/lerna-monorepo-components/compare/@JackHowa/headline@1.3.0-canary.0...@JackHowa/headline@1.3.0) (2021-07-21)
 
 **Note:** Version bump only for package @JackHowa/headline
