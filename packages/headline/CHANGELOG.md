@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.8.0](https://github.com/JackHowa/lerna-monorepo-components/compare/@JackHowa/headline@1.7.0...@JackHowa/headline@1.8.0) (2021-07-21)
+
+
+### Features
+
+* Use js change ([18c17e7](https://github.com/JackHowa/lerna-monorepo-components/commit/18c17e7bc6926e8e9161f77f3148078c1d939a56))
+
+
+
+
+
 # 1.7.0 (2021-07-21)
 
 
